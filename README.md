@@ -1,3 +1,1 @@
-In this study, I analyze the relationship between life satisfaction
-and the amount of internet usage of young adults between 15 and 24 using data from
-the tenth round of the European Social Survey from 31 European countries.
+In this study, I analyze whether increased internet usage negatively affects the life satisfaction of young adults aged 15–24, using data from the tenth round of the European Social Survey covering 31 European countries and applying a linear regression with heteroskedasticity-robust standard errors that controls for social integration and socio-economic factors.
